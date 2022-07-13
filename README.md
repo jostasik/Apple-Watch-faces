@@ -1,4 +1,4 @@
-# Awesome Library of Apple Watch faces!
+# Awesome Apple Watch faces!
 
 Scroll down to preview all the faces!
 
